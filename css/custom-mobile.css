@@ -1,0 +1,471 @@
+@media only screen and (max-width: 992px) {
+    .hide_m {
+        display: none;
+    }
+    .form-section {
+        margin-top: 0;
+        background: #fff;
+        border-radius: 0;
+        padding: 0;
+        box-shadow: none;
+    }
+    .form-section h1 {
+        font-size: 25px;
+    }
+    .form-section p {
+        font-size: 18px;
+        padding: 0px 0;
+        margin-bottom: -0;
+    }
+    .pick-up-section {
+        background: #fff !important;
+        padding-bottom: 0px;
+    }
+    .are_you_transportar {
+        padding-top: 0;
+        padding-left: 0;
+        border-top: 1px solid #ccc;
+        border-bottom: 1px solid #ccc;
+        margin-top: 29px;
+    }
+    .attach_your_truck_text2 {
+        text-align: center;
+        width: 19% !important;
+        padding-left: 0 !important;
+    } 
+    .attach_your_truck_text2 a img {
+        width: 23px;
+    }
+    .attach_your_truck_text {
+        width: 100%;
+        border-right: none;
+        line-height: 1.2;
+        font-size: 18px;
+    }
+    .attach_your_truck {
+        background: #ffffff;
+        padding: 2px 0 15px;
+        border-radius: 0;
+        font-size: 17px;
+        color: #000;
+        align-items: center;
+        line-height: 1.3;
+    }
+    .are_you_transportar p {
+        font-size: 16px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        padding-top: 15px;
+    }
+    .join_exclusive h2 {
+        color: #fff;
+        font-size: 30px;
+        line-height: 1.3;
+    }
+    .join_exclusive p {
+        color: #fff;
+        font-weight: 500;
+        padding: 0px;
+        margin-bottom: 0;
+        font-size: 22px;
+    }
+    .form-section .form-control {
+        height: 55px !important;
+    }
+    .whats_user_text {
+        padding: 15px 0 !important;
+    }
+    .moving_with_oxa {
+        padding: 0px 0 0 !important;
+    }
+    .footer-top {
+        padding: 0 40px;
+    }
+    h3.footer-title {
+        font-size: 25px !important;
+        /* font-weight: 600; */
+        /* letter-spacing: 1px; */
+        color: #000 !important;
+        margin-bottom: 20px !important;
+    }
+    .servi23 h1 br, .servi23 p br, .driningwithoxaserv h1 br, .driningwithoxaserv p br, .oxa_remove_text h1 br, .srviceimg p br, .we_are_looking_text p br, .popular_articles h1 br, .popular_articles p br, .attach_your_truck_text br, .how_we_make_it_text h3 br {
+        display: none !important;
+    }
+    .servi23 h1, .driningwithoxaserv h1 {
+        font-size: 19px;
+        margin-bottom: 0;
+    }
+    .servi23 p, .driningwithoxaserv p {
+        font-size: 16px !important;
+    }
+    .drivewithservices1 {
+        padding: 45px 0 !important;
+        border-bottom: 1px solid #ccc !important;
+    }
+    .drivewithservices2 {
+        border-bottom: none !important;
+        padding-bottom: 0 !important;
+    }
+    h1.driving_title {
+        color: #525252;
+        font-size: 24px !important;
+        font-weight: bold;
+        text-align: left !important;
+        padding-bottom: 0 !important;
+    }
+    .manimg {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .oxa_remove_text {
+        padding-top: 0;
+        padding-left: 0;
+    }
+    .oxa_remove_text h1 {
+        font-size: 35px;
+        font-weight: 500;
+        color: #525252;
+        line-height: 1.3;
+    }
+    .oxa_remove_text p {
+        display: none !important;
+    }
+    .oxa_remove_text a {
+        font-weight: 500;
+        width: 100%;
+        text-align: center;
+        background: #525252;
+        padding: 13px;
+        border-radius: 4px;
+        font-size: 20px;
+    }
+    .srviceimg p {
+        line-height: 1.3;
+        font-size: 16px !important;
+        padding: 14px 0 0 !important;
+        margin-bottom: 8px;
+    }
+    .srviceimg a {
+        color: #ff476a;
+        font-weight: 500;
+        font-size: 16px !important;
+        padding-bottom: 26px !important;
+        display: block !important;
+    }
+    .we_are_looking_title {
+        text-align: center;
+        font-size: 32px !important;
+        padding: 0px 0 35px !important;
+    }
+    .we_are_looking_text h1 {
+        font-size: 22px !important;
+    }
+    .we_are_looking_text p {
+        font-size: 16px !important;
+    }
+    .we_are_looking_text {
+        margin-bottom: 20px !important;
+    }
+    .stepcount {
+        margin: 24px 0 5px !important;
+    }
+    .form-section.drive-with-us-form {
+        margin-top: 0px;
+        background: #ffffff;
+        margin-left: -15px;
+        margin-right: -15px;
+        border-radius: 0;
+        padding: 0;
+        box-shadow: none;
+        padding: 15px;
+    }
+    .drive_with_us_section {
+        padding: 0 !important;
+        background-size: 100% !important;
+    }
+    .drive_with_us_content {
+        padding: 0 0 20px !important;
+    }
+    .form-section.drive-with-us-form h1 {
+        /*display: none !important;*/
+    }
+    .form-section .form-control {
+        font-size: 16px !important;
+    }
+    .welcome_to_the_oxa {
+        width: 100% !important;
+    }
+    .welcome_to_the_oxa {
+        width: 100% !important;
+        padding-top: 54px !important;
+    }
+    .welcome_to_the_oxa img {
+        width: 100% !important;
+    }
+    .welcome_to_the_oxa h1 {
+        color: #525252;
+        font-size: 29px;
+        font-weight: 600;
+        padding: 20px 0;
+    }
+    .articles_help {
+        margin-left: -15px !important;
+        margin-right: -15px !important;
+    }
+    .popular_sections {
+        padding: 0px 0 20px!important;
+    }
+    .col-md-3 {
+        text-align: left;
+    }
+    .Popular_articles_section {
+        display: flex !important;
+        text-align: left;
+        margin: 0px !important;
+    }
+    .icon_chate {
+        width: 98px !important;
+    }
+    .popular_articles p {
+        color: #525252;
+        font-size: 17px;
+        line-height: 1.2;
+        padding: 5px 0;
+        /*margin-left: -37px;*/
+        margin-left: 0px;
+        float: left;
+        width: 100%;
+    }
+    .popular_articles a {
+        color: #ff4769 !important;
+        font-weight: 400;
+        font-size: 19px;
+        /*margin-left: -37px;*/
+        margin-left: 0px;
+        padding-bottom: 0px;
+        float: left;
+        width: 100%;
+    }
+    .kind_of_help_sectionmain h1 {
+        font-size: 25px !important;
+        width: 85%;
+    }
+    .kind_of_help {
+        display: grid !important;
+        width: 100%;
+        box-shadow: 0 0 11px 6px #0404040d;
+        border-radius: 10px;
+        overflow: hidden;
+        padding: 10px 40px !important;
+        align-items: center;
+        margin-top: 50px;
+    }   
+    .kindofhelpcontent h1 {
+        font-size: 20px !important;
+    }
+    .kindofhelpcontent p {
+        font-size: 14px !important;
+        line-height: 1.5;
+        font-weight: 600;
+        color: #0d0d0d !important;
+        padding-top: 11px !important;
+    }
+    .kind_of_help_sectionmain {
+        padding: 40px 0 0;
+    }
+    .contact_click_section {
+        /* border-top: 2px solid #dadada; */
+        /* padding: 37px 5px !important; */
+        text-align: center;
+        /* margin-top: 47px !important; */
+        overflow: auto !important;
+    }
+    .what_do_think {
+        padding: 40px 0 !important;
+    }
+    ul.contact_click li {
+        /* float: left; */
+        margin-right: 24px !important;
+        box-shadow: 0 0 11px 6px #0404040d;
+        border-radius: 0 !important;
+        overflow: hidden !important;
+        padding: 16px 36px !important;
+        text-align: center !important;
+        /* flex-basis: 202px; */
+    }
+    .imgicon {
+        min-height: 50px !important;
+    }
+    ul.contact_click li p {
+        font-weight: bold;
+        font-size: 23px;
+        color: #525252;
+        margin-bottom: 0;
+        /* padding-top: 10px; */
+    }
+    .articles_help input {
+        border: 2px solid #e5e5e5;
+         height: 60px; 
+        font-size: 20px;
+        padding: 26px 30px;
+        margin: 20px 0 20px !important;
+        border-left: none !important;
+        border-right: none !important;
+        border-radius: 0 !important;
+    }
+    section.exploreoxa_vehicles_mobile h1 {
+        font-weight: bold;
+        font-size: 24px !important;
+        margin: 78px 0 40px !important;
+        color: #525252 !important;
+        text-align: left;
+    }
+    .oxa_vehicle_sec2 {
+        padding-left: 0px !important;
+        padding-top: 20px;
+    }
+    .join_exclusive {
+        padding: 60px 0 20px;
+    }
+    .exploreoxa_vehicles_mobile .slick-list {
+        overflow: hidden !important;
+    }
+    .commas_icon {
+        margin-top: 20px;
+        margin-bottom: -11px;
+    }
+    .banner.mobile-home {
+        background: url(../img/home-mobile-banner.png) no-repeat center !important;
+    }
+    .home_page_banner_text {
+        position: absolute;
+        top: 0;
+        /* background: red; */
+        padding-top: 38px;
+    }
+    .home_page_banner_text h2 {
+        color: #000 !important;
+        font-size: 15px;
+        margin-top: 0;
+        margin-bottom: 7px;
+    }
+    .home_page_banner_text p {
+        color: #000 !important;
+        line-height: 1;
+        font-size: 13px;
+    }
+    .testiminials_content_new h5 {
+        margin-top: 50px !important;
+        font-size: 14px;
+    }
+    .in-testi p {
+        line-height: 1.9;
+    }
+    #logo a img {
+        width: 90px;
+    }
+    .drive_with_us_content h2, .drive_with_us_content p {
+        color: #fff !important;
+        line-height: 1.3;
+    }
+    .top_bar_right_wrapper a{
+        /*margin-left: 50px;*/
+        float: right !important;
+        padding: 23px 66px !important;
+    }
+    .fixed-header {
+        width: 100%;
+    }
+    .how_we_make_it_content {
+        padding: 40px 0 0;
+    }
+    .how_we_make_it_text {
+        /* text-align: center; */
+        margin-bottom: 30px;
+    }
+    .how_we_make_it_text h4 {
+        padding: 12px 0;
+        font-weight: 100;
+        font-size: 16px;
+    }
+    .how_we_make_it h1 {
+        /* text-align: center; */
+        font-size: 24px;
+        padding-top: 20px;
+    }
+    [id^=drop]:checked + ul {
+        top: 65px;
+        left: 0;
+        position: absolute;
+        width: 100%;
+        background: #fbfbfb !important;
+    }
+    div#footer {
+        padding-top: 0px;
+    }
+    .how_we_make_it_content .col-md-3 {
+        width: 50%;
+    }
+    .how_we_make_it_text h3 {
+        font-size: 17px !important;
+        color: #000;
+        font-family: 'AlteHaasGroteskRegular' !important;
+    }
+    .whats_our_users_are h1 {
+        font-weight: bold;
+        font-size: 24px !important;
+        color: #525252;
+    }
+    .main_title {
+        font-size: 24px !important;
+    }
+    .moving_with_text h2 {
+        color: #525252;
+        font-size: 22px;
+        padding: 10px 0 !important;
+    }
+    .moving_with_text {
+        margin-bottom: 50px !important;
+    }
+    .moving_with_content {
+        border-top: none !important;
+        border-bottom: 2px solid #e6e6e6;
+        padding: 10px 0 !important;
+        margin: 30px 0;
+    }
+    .testiminials_slider_main.whats_our_users_are {
+        padding-bottom: 27px !important;
+    }
+    .srviceimg img {
+        border-radius: 10px;
+    }
+    .exploreoxa_vehicles_mobile a h4 {
+        color: #525252 !important;
+        font-size: 18px !important;
+        font-weight: 700 !important;
+        margin: 2px 0 0 !important;
+    }
+    .exploreOxaselection a {
+        padding: 10px 10px 15px !important;
+    }
+    .fisrsectionnavset {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .the_tuck_title {
+        margin: 3px 0 30px !important;
+    }
+    .content_Section p {
+        padding-top: 20px !important;
+    }
+    .popular_sections h1 {
+        font-size: 24px;
+        padding-top: 30px;
+    }
+    .Popular_articles_content {
+        padding-top: 0px !important;
+    }
+    .popular_articles h1 {
+        font-size: 19px !important;
+    }
+}
